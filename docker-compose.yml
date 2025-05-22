@@ -24,6 +24,7 @@ services:
       MYSQL_USER: djambred
       MYSQL_PASSWORD: p455w0rd1!.
       MYSQL_ROOT_PASSWORD: p455w0rd
+      MYSQL_DATABASE: ksi
       TZ: Asia/Jakarta
       SERVICE_TAGS: dev
       SERVICE_NAME: mysql  
